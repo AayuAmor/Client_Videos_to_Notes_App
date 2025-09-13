@@ -69,3 +69,21 @@ Open source libraries used: React, Vite
 ## Author
 
 Solo project by [@AayuAmor](https://github.com/AayuAmor)
+
+---
+
+## Screenshots
+
+Below are some screenshots demonstrating the app and its features:
+
+### Debugging using Gemini 2.5 Pro
+
+![Debugging using Gemini 2.5 Pro](./assets/Debugging%20using%20Gemini%202.5%20pro.png)
+
+### Use of Gemini 2.5
+
+![Use of Gemini 2.5](./assets/Use%20of%20Gemini%202.5.png)
+
+### End of Free Tier of Gemini 2.5
+
+![End of Free tier of Gemini 2.5](./assets/End%20of%20Free%20tier%20of%20Gemini%202.5.png)
