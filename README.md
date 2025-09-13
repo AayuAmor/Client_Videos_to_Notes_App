@@ -87,3 +87,15 @@ Below are some screenshots demonstrating the app and its features:
 ### End of Free Tier of Gemini 2.5
 
 ![End of Free tier of Gemini 2.5](./assets/End%20of%20Free%20tier%20of%20Gemini%202.5.png)
+
+---
+
+## Demo Video
+
+Watch a short demo of the app in action:
+
+[![Videos to Notes App Demo](./assets/Debugging%20using%20Gemini%202.5%20pro.png)](./assets/Videos_to_Notes_App.mov)
+
+Or download/view the video directly: [Videos_to_Notes_App.mov](./assets/Videos_to_Notes_App.mov)
+
+---
